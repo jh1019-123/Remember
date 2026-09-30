@@ -1,0 +1,6 @@
+{
+  "name": "Remembering - 나만의 플래시카드 학습기",
+  "description": "취약한 과목의 문제와 답을 기록하고 공부 집중 BGM과 함께 복습하는 심플한 학생용 카드 암기 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
